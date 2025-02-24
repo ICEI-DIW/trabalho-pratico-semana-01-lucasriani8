@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucas Gontijo Riani
+Matricula: 885376
 
 ## Tela de inspeção com navegador
-
+![alt text](image-1.png)
 
 ## Tela de projeto no Replit
-
+![alt text](image.png)
